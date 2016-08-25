@@ -18,6 +18,7 @@
     [super viewDidLoad];
     UIButton *btn = [[UIButton alloc]initWithFrame:CGRectMake(0, 0, 100, 100)];
     [btn addTarget:self action:@selector(push) forControlEvents:UIControlEventTouchUpInside];
+    [self.view addSubview:btn];
     // Do any additional setup after loading the view, typically from a nib.
 }
 - (void)push {
