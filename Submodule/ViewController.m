@@ -4,7 +4,7 @@
 //
 //  Created by jinlong sheng on 16/8/25.
 //  Copyright © 2016年 sjl. All rights reserved.
-//新功能分支1
+//  新功能2
 
 #import "ViewController.h"
 
