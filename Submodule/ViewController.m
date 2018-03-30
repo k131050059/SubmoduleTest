@@ -4,8 +4,8 @@
 //
 //  Created by jinlong sheng on 16/8/25.
 //  Copyright © 2016年 sjl. All rights reserved.
-//n 1.0.1
-
+//n 1.0.2
+// 新版本
 #import "ViewController.h"
 
 @interface ViewController ()
